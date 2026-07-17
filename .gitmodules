@@ -1,0 +1,6 @@
+[submodule "FSNotes"]
+	path = FSNotes
+	url = https://github.com/glushchenko/fsnotes.git
+[submodule "SwiftMarkdownEngine/swift-markdown-engine"]
+	path = SwiftMarkdownEngine/swift-markdown-engine
+	url = https://github.com/nodes-app/swift-markdown-engine.git

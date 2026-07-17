@@ -1,0 +1,24 @@
+# === Project documentation & agent files (excluded from repo) ===
+about.md
+ACTIVE_CONTEXT.md
+active_handoff.md
+AGENTS.md
+MARKDOWN.md
+Saves_Not_Working_Handoff.md
+
+# === Xcode build tooling config ===
+.xcodebuildmcp/
+
+# === macOS ===
+.DS_Store
+
+# === Xcode (top-level) ===
+xcuserdata/
+DerivedData/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# === Swift Package Manager (top-level) ===
+.build/
+.swiftpm/xcode/
+Package.resolved
