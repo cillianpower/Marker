@@ -6,6 +6,10 @@ AGENTS.md
 MARKDOWN.md
 Saves_Not_Working_Handoff.md
 
+# === Reference code (not part of Marker source) ===
+FSNotes/
+SwiftMarkdownEngine/
+
 # === Xcode build tooling config ===
 .xcodebuildmcp/
 
